@@ -117,7 +117,7 @@ Link](http://www.meetup.com/Seattle-Open-Web-Application-Security-Project-OWASP-
 In December we are delighted to have two presentations:
 
   - Eve Maler on online identity and SAML
-  - Dinis Cruz on the [OWASP O2 Platform](OWASP_O2_Platform "wikilink")
+  - Dinis Cruz on the [OWASP O2 Platform](OWASP_O2_Platform )
     project
 
 <b>Online Identity and the Future of SAML
@@ -436,7 +436,7 @@ Bellevue, WA 98004
 **Speaker: Anil Kumar Revuru**
 
 '''Slides: '''
-[<file:Anti-XSS_3.0_RV.pptx>](file:Anti-XSS_3.0_RV.pptx "wikilink")
+[<file:Anti-XSS_3.0_RV.pptx>](file:Anti-XSS_3.0_RV.pptx )
 
 **The Microsoft Anti-Cross-Site Scripting Library**
 
@@ -968,7 +968,7 @@ Time: 6 o'clock
 ''' Update: ''' - Rob's slides can be downloaded from
 [here](http://www.owasp.org/images/f/f6/SANS_Online_Banking_Case_study.ppt).
 ''' Update \#2: ''' - Damon's slides can be found
-[here](https://www.owasp.org/images/3/32/Web_Hacking_101.pdf).
+[here](/www-pdf-archive/Web_Hacking_101.pdf).
 
 -----
 
@@ -1039,4 +1039,4 @@ Since there will be free food, beer and pop please let Mike de Libero
 know so we know how much to order. We look forward to seeing you all
 there\!
 
-[Category:Washington](Category:Washington "wikilink")
+[Category:Washington](Category:Washington )

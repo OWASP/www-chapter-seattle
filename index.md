@@ -6,6 +6,9 @@ tags: example-tag
 level: 0
 
 region: North America
+meetup-group: Seattle-Open-Web-Application-Security-Project-OWASP-Chapter
+country: USA
+postal-code: 98119
 
 ---
 

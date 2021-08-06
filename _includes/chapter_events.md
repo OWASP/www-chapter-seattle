@@ -1,6 +1,6 @@
 ### Current Events
 
-The Seattle Chapter is planning for future Meetups and Events. We needs your input. Please take our [survey](https://bit.ly/3yxqXQA)
+The Seattle Chapter is planning for future Meetups and Events. We needs your input. Please take our [survey](https://bit.ly/3yxqXQA).
 
 ---
 

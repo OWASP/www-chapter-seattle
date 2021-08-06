@@ -29,6 +29,6 @@ Everyone is welcome to join us at our chapter meetings. Join out [Meetup Group](
 
 Join us on our [Slack Channel - #chapter-seattle](https://join.slack.com/t/owasp/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw)
 
-## Upcoming Meeting
+## Meetings and Events
 
 {% include chapter_events.md group=page.meetup-group %}

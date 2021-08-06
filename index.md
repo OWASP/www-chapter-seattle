@@ -16,6 +16,7 @@ postal-code: 98119
 Welcome to the OWASP Seattle Chapter
 
 ## Participation
+
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
@@ -26,7 +27,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Everyone is welcome to join us at our chapter meetings. Join out [Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/) for up to date information. 
 
-## Upcoming Meeting:
+Join us on our [Slack Channel - #chapter-seattle](https://join.slack.com/t/owasp/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw)
 
-{% include chapter_events.html group=page.meetup-group %}
+We Seattle Chapter needs your input. Please take our [survey](https://bit.ly/3yxqXQA)
 
+## Upcoming Meeting
+
+{% include chapter_events.md group=page.meetup-group %}

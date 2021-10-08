@@ -21,7 +21,7 @@ The Seattle Chapter is always planning for future Meetups and Events. We needs y
 
 Virtual Seattle OWASP Networking and Social Hour
 <ul> <li style="list-style-type: none;">
-Come and join your fellow security practitioners at an informal virtual networking event on Friday <b>October 8th, 2021 at noon</b>. We will discuss upcoming plans for the Seattle Chapter, OWASP news & topics, and have an open forum discussion on what you, the members, would like to focus on in the coming months.
+We will discussed upcoming plans for the Seattle Chapter, OWASP news & topics, and had an open forum discussion on what the members would like to focus on in the coming months.
 </li> </ul>
 
 Slides : [Virtual Seattle OWASP Networking and Social Hour - Oct 2021](https://owasp.org/www-chapter-seattle/presentations/Virtual Seattle OWASP Networking and Social Hour - Oct 2021.pdf)

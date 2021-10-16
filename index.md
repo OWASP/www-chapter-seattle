@@ -6,33 +6,32 @@ tags: Seattle
 level: 0
 region: North America
 meetup-group: OWASP-Seattle-Chapter
-country: North America
 postal-code: 98119
 
 ---
 
-## Welcome to the OWASP Seattle Chapter!
+### Welcome to the OWASP Seattle Chapter!
 
-Looking to join a chapter event or subscribe to event updates? Join our [OWASP Seattle Chapter Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/).
+Interested in attending chapter events or subscribing to event updates? Join our [OWASP Seattle Chapter Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/).
 
 Want to chat with others in your community? 
 Find us on [Slack @ #chapter-seattle](https://bit.ly/owasp-seattle-slack).
 
+---
+  
+### Events
 
-## Meetings and Events
+We host a monthly lunchtime social meeting on Zoom with breakout sessions for community-driven content.
 
-### Security Social Lunch Hours
-At noon on the 2nd Wednesday of every month we host a social meeting on Zoom with mini talks and breakout rooms.  The main room will always be open for social time but we plan to have 1-2 topic breakouts you can join.  If the breakout session topic interests you, join that discussion.  Feeling more like a casual chat and exploring other topics, visit the main room to strike up a conversation.
+_Stay tuned for updates about other upcoming events & event types!_
 
+{% include chapter_events.html group=page.meetup-group %}
 
-Suggest topics you’d like to see breakout rooms for and let us know if you’d like to sign up to lead one.
+---
+  
+### Participation
 
-Message the group with your thoughts @ [seattle-chapter@owasp.org](seattle-chapter@owasp.org) or on [Slack @ #chapter-seattle](https://bit.ly/owasp-seattle-slack). 
+The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
+Become an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership)
 
-[RSVP @ OWASP Seattle Chapter Meetup](https://www.meetup.com/OWASP-Seattle-Chapter/)
-
-
-_**Stay tuned for updates about other events & event types!**_
-
-{% include chapter_events.md group=page.meetup-group %}

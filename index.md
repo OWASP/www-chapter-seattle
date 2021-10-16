@@ -11,24 +11,28 @@ postal-code: 98119
 
 ---
 
-## OWASP Seattle
+## Welcome to the OWASP Seattle Chapter!
 
-Welcome to the OWASP Seattle Chapter
+Looking to join a chapter event or subscribe to event updates? Join our [OWASP Seattle Chapter Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/).
 
-## Participation
+Want to chat with others in your community? 
+Find us on [Slack @ #chapter-seattle](https://bit.ly/owasp-seattle-slack).
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-
-Everyone is welcome to join us at our chapter meetings. Join out [Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/) for up to date information. 
-
-Join us on our [Slack Channel - #chapter-seattle](https://join.slack.com/t/owasp/shared_invite/zt-g398htpy-AZ40HOM1WUOZguJKbblqkw)
 
 ## Meetings and Events
+
+### Security Social Lunch Hours
+At noon on the 2nd Wednesday of every month we host a social meeting on Zoom with mini talks and breakout rooms.  The main room will always be open for social time but we plan to have 1-2 topic breakouts you can join.  If the breakout session topic interests you, join that discussion.  Feeling more like a casual chat and exploring other topics, visit the main room to strike up a conversation.
+
+
+Suggest topics you’d like to see breakout rooms for and let us know if you’d like to sign up to lead one.
+
+Message the group with your thoughts @ [seattle-chapter@owasp.org](seattle-chapter@owasp.org) or on [Slack @ #chapter-seattle](https://bit.ly/owasp-seattle-slack). 
+
+
+[RSVP @ OWASP Seattle Chapter Meetup](https://www.meetup.com/OWASP-Seattle-Chapter/)
+
+
+_**Stay tuned for updates about other events & event types!**_
 
 {% include chapter_events.md group=page.meetup-group %}

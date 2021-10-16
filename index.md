@@ -11,8 +11,6 @@ postal-code: 98119
 
 ---
 
-## OWASP Seattle
-
 Welcome to the OWASP Seattle Chapter
 
 ## Participation

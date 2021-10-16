@@ -11,7 +11,7 @@ postal-code: 98119
 
 ---
 
-##Welcome to the OWASP Seattle Chapter!
+## Welcome to the OWASP Seattle Chapter!
 
 Looking to join a chapter event or subscribe to event updates? Join our [OWASP Seattle Chapter Meetup Group](https://www.meetup.com/OWASP-Seattle-Chapter/).
 

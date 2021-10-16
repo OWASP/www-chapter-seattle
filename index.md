@@ -33,6 +33,6 @@ Message the group with your thoughts @ [seattle-chapter@owasp.org](seattle-chapt
 [RSVP @ OWASP Seattle Chapter Meetup](https://www.meetup.com/OWASP-Seattle-Chapter/)
 
 
-##### Stay tuned for updates about other events & event types!
+_**Stay tuned for updates about other events & event types!**_
 
 {% include chapter_events.md group=page.meetup-group %}

@@ -6,6 +6,7 @@ tags: Seattle
 level: 0
 region: North America
 meetup-group: OWASP-Seattle-Chapter
+country: USA
 postal-code: 98119
 
 ---

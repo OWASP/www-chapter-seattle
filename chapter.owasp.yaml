@@ -1,0 +1,30 @@
+community:
+  - name: chapter-seattle
+    platform: slack
+    url: https://owasp.slack.com/archives/C04UWLACF
+    description: OWASP Seattle, WA USA Chapter
+leaders:
+  - name: Clara Andress
+    email: clara.andress@owasp.org
+    github: Clara-Andress
+  - name: Arjun Gopalakrishna
+    email: arjun.gopalakrishna@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Washington
+  city: Seattle
+  postal_code: '98119'
+  latitude: 47.6321444
+  longitude: -122.3539681
+meetup_group: OWASP-Seattle-Chapter
+name: OWASP Seattle
+repositories:
+  - name: www-chapter-seattle
+    url: https://github.com/OWASP/www-chapter-seattle
+    description: OWASP Foundation Web Repository
+tags:
+  - Seattle
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-seattle

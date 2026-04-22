@@ -993,7 +993,7 @@ Time: 6 o’clock.
         show the areas in .Net and Asp.Net applications that are
         vulnerable to Buffer Overflows (including the demo of a .Net
         Buffer Overflow Fuzzer).
-      - **OWASP, the Open Web Application Security Project** - The Open
+      - **OWASP, the Open Worldwide Application Security Project** - The Open
         Web Application Security Project (OWASP) is an open community
         dedicated to enabling organizations to develop, purchase, and
         maintain applications that can be trusted. All of the OWASP

@@ -4,3 +4,4 @@
 * [Arjun Gopalakrishna](mailto:arjun.gopalakrishna@owasp.org)
 * [Manoj Prasad](mailto:manoj.prasad@owasp.org)
 * [Keri Kusznir](mailto:keri.kusznir@owasp.org)
+* [Victor Hernandez Guzman](mailto:victor.hernandez@owasp.org)
